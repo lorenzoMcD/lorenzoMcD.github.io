@@ -16,13 +16,13 @@
 
 	  if($age && $twentyone && $age <= $twentyone){
 
-	     header('Location: blank.html');
+	     header("Location: http://www.youtube.com/")
 
 	  }
 
 	  else{
 
-	    header('Location: www.google.com');
+	    header("Location: http://www.google.com/")
 
 	  }
 
